@@ -35,4 +35,5 @@ describe('Counter component tests', () => {
     const counterElement = screen.getByTestId('count');
     expect(counterElement).toHaveTextContent('0');
   });
+  //test
 });
